@@ -1031,7 +1031,7 @@ p {
     transform: translateX(0); }
   @media (max-width: 767px) {
     .sidebar-right {
-      width: 220px; } }
+      width: 250px; } }
   .sidebar-right .sidebar-close {
     position: absolute;
     top: 30px;
